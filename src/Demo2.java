@@ -23,5 +23,6 @@ public class Demo2 {
         System.out.println(driver.findElement(By.cssSelector("#ctl00_MainContent_status")).getText());
 
         //driver.quit();
+        
     }
 }
